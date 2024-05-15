@@ -1,0 +1,43 @@
+body { 
+    background-color:white;
+}
+h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 300%;
+    padding: 30px;
+    margin: 50px;
+    text-align: center;
+    font-family: Helvetica;
+}
+h2 {
+    color: grey;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 200%;
+    padding: 30px;
+    margin: 50px;
+}
+p {
+    color: grey;
+    font-family: Helvetica;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    word-spacing: 30px;
+    padding: 10px;
+    background-color: hsl(211, 100%, 50%);
+    font-family: Helvetica;
+ }
+ nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: larger;
+ }
+ .footer { 
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
